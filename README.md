@@ -1,34 +1,74 @@
-# Hi there! 👋 I'm Raul Perez Fung
+# Hi, I'm Raul Perez Fung 👋
 
-**Computer Engineer | IT Support | Cybersecurity**
+**Computer Engineer | IT Support Specialist | Web Developer**
 
-Computer Engineer with professional Tier 1 and Tier 2 IT support experience and hands-on labs in Windows administration, Active Directory, networking, and security monitoring.
+Computer Engineer with 1 year of professional Tier 1 and Tier 2 IT support experience, focused on Windows troubleshooting, networking, end-user support, and secure remote assistance.
 
-## 🖥️ IT Support & Systems Administration
+I also build fast and responsive websites with Astro.
 
-Hands-on labs focused on Windows Server, Active Directory, Group Policy, user administration, permissions, and troubleshooting.
+## 🖥️ IT Support
 
-👉 [View IT Support Homelabs](https://github.com/raulperezfung/it-support-homelabs)
+Experience and hands-on practice with:
 
-Featured:
-- Active Directory IT Support Homelab
+- Windows 10/11 troubleshooting
+- Hardware and software support
+- Network and DNS troubleshooting
+- PC performance and driver issues
+- Windows Server 2022
+- Active Directory
+- Group Policy
+- User and permission management
+- Remote IT support
+- Technical documentation
+
+### IT Support Labs
+
+👉 [View IT Support Labs](https://github.com/raulperezfung/it-support-homelabs)
+
+Featured project:
+- Active Directory IT Support Lab
 - Windows Server 2022
 - Active Directory Domain Services
+- Windows 11 domain workstation
 - Group Policy
 - NTFS permissions
-- Windows 11 domain administration
+
+## 🌐 Web Development
+
+I build responsive landing pages and small business websites using:
+
+- Astro
+- HTML
+- CSS
+- TypeScript
+- Responsive Web Design
+- Performance optimization
+- Accessibility
+
+👉 [View My Portfolio](https://raulfungtech.com/)
 
 ## 🛡️ Cybersecurity
 
-Security labs focused on SIEM monitoring, Windows event analysis, vulnerability assessment, and controlled security testing.
+Cybersecurity training and hands-on practice in:
 
-👉 [View Cybersecurity Homelabs](https://github.com/raulperezfung/cybersecurity-homelabs)
+- Security monitoring
+- Windows event analysis
+- SIEM
+- Network security
+- Vulnerability assessment
+- Basic penetration testing
 
-Featured:
-- Wazuh SIEM & Telegram Alerting Lab
+👉 [View Cybersecurity Labs](https://github.com/raulperezfung/cybersecurity-homelabs)
 
-## 🌐 Portfolio
+## 🎓 Credentials
 
-For my experience, certifications, skills, and project summaries:
+- Computer Engineering Degree
+- Google IT Support Professional Certificate
+- Google Cybersecurity Professional Certificate
+- eJPT – Junior Penetration Tester
+- CompTIA Security+ – In Progress
 
-👉 [Visit My Portfolio](https://raulfungtech.com/)
+## 🌎 Languages
+
+- Spanish — Native
+- English — Conversational
